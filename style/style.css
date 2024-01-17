@@ -197,7 +197,7 @@ nav > h3{
     margin: 20px auto;
 }
 .newsletter{
-    width: 40%;
+    width: 35%;
     border: 2px solid orangered;
     padding: 10px;
 }
@@ -222,6 +222,9 @@ nav > h3{
 
 .news-image{
     width: 60%;
+}
+.news-image img{
+    width: 100%;
 }
 
 /* footer */
@@ -286,7 +289,7 @@ footer{
         width: 100%;
     }
     .newsletter,.news-image{
-        width: 100%;
+        width: 90%;
     }
     .last{
         width: 80%;
